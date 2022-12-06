@@ -16,6 +16,8 @@
 -Setting up the base for the UI Design.
 -Setting up the Boiler Plate Dependancies.
 -Create and complete the Control book. 
+> Drafted and finalized the Contact Page, Donate Goods Page, Login Page and Sign-up page. 
+> Created the GoFund Me Link and Page. 
 
 
 
