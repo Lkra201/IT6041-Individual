@@ -31,7 +31,7 @@
 
 ## Reflection On Team Work:
 
-All team members contributed to their assigned work and roles.
+> All team members contributed to their assigned work and roles.
 Each team member was quick to respond to messages in Teams and offer to finish any work that still had to be done.
 For the most part all work done by team members was quick and efficient. There were no issues between team members or work that had to be done. 
 
