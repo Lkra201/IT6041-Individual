@@ -43,7 +43,7 @@ For the most part all work done by team members was quick and efficient. There w
 
 ## Reflection of Social Issue:
 
-Based on the resources provided to our software team, our product will be a web application for the Ruach and Elohim Foundation. 
+> Based on the resources provided to our software team, our product will be a web application for the Ruach and Elohim Foundation. 
 The purpose of this web application is to raise awareness of abandoned babies in mainly Namibia, but also South Africa. 
 We want to grow our target audience in hopes of bringing in donations to help support the Ruach Elohim Foundation. 
 Based on the resources provided to our software team, our product will be a web application for the Ruach and Elohim Foundation. 
