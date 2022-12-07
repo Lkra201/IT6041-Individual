@@ -7,7 +7,7 @@
 
 ### The first task I worked on is creating the System Design Document.This included the following tasks:
 
--Listing the Data Access Design.
+- Listing the Data Access Design.
 -Listing and describing the Functional Decomposition.
 -Investigating different database types that would suit our Web Application.
 -Listing the Security Design.
