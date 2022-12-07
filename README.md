@@ -8,16 +8,16 @@
 ### The first task I worked on is creating the System Design Document.This included the following tasks:
 
 - Listing the Data Access Design.
--Listing and describing the Functional Decomposition.
--Investigating different database types that would suit our Web Application.
--Listing the Security Design.
--Listing and describing the user roles and permissions.
--Listing the User Interface Design.
--Setting up the base for the UI Design.
--Setting up the Boiler Plate Dependancies.
--Create and complete the Control book. 
-> Drafted and finalized the Contact Page, Donate Goods Page, Login Page and Sign-up page. 
-> Created the GoFund Me Link and Page. 
+- Listing and describing the Functional Decomposition.
+- Investigating different database types that would suit our Web Application.
+- Listing the Security Design.
+- Listing and describing the user roles and permissions.
+- Listing the User Interface Design.
+- Setting up the base for the UI Design.
+- Setting up the Boiler Plate Dependancies.
+- Create and complete the Control book. 
+- Drafted and finalized the Contact Page, Donate Goods Page, Login Page and Sign-up page. 
+- Created the GoFund Me Link and Page. 
 
 
 
