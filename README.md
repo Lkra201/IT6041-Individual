@@ -38,7 +38,11 @@ For the most part all work done by team members was quick and efficient. There w
 
 ## What went well?
 
--Team colaboration on enquiries, decisions that has to be made and work flow of taks that has to be completed for the IT6041-SoftwareProject.
+- Team colaboration on enquiries, decisions that has to be made and work flow of taks that has to be completed for the IT6041-SoftwareProject.
+- Workflow between team members were evenly distributed. 
+- Any bugs/issues that arised was dealt with in a team setting. Everyone helped everyone. 
+- Time management was also divided accordingly and there were no issues when it came to managing our time. 
+- Implimenting new designs. We have decided as a team to work on the things we have the least experience with to build our knowledge. This build our skills and made working in a team setting alot more effective. 
 
 
 ## Reflection of Social Issue:
@@ -49,10 +53,3 @@ We want to grow our target audience in hopes of bringing in donations to help su
 Based on the resources provided to our software team, our product will be a web application for the Ruach and Elohim Foundation. 
 The purpose of this web application is to raise awareness of abandoned babies in Namibia and South Africa. 
 We want to grow our target audience in hopes of bringing in donations to help support the Ruach Elohim Foundation. 
-
-
-
-
-
-
-
